@@ -3,6 +3,6 @@ my_hash = {"Rocket" => "cat", "George" => "fish"}
 end
 
 def shipping_manifest
-  shipping_manifest = {"whale bone corsets" => nil, "oil paintings" => nil, "porcelain vases" => nil}
+  shipping_manifest = {"whale bone corsets" => 2, "oil paintings" => 3, "porcelain vases" => 5}
   
 end  
