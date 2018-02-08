@@ -1,1 +1,1 @@
-my_hash = {"Rocket" => "cat", "George" => "fish}
+my_hash = {"Rocket" => "cat", "George" => "fish"}
